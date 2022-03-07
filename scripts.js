@@ -58,14 +58,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["a Competitive Programmer", "Lipartist", "a Designer", "a Freelancer", "a Gallivanter"],
+        strings: ["a Competitive Programmer", "a Frontend Developer", "a Designer", "a Freelancer", "a Gallivanter"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["a Coder", "a Frontend Developer", "a Designer", "a Freelancer", "a Gallivanter"],
+        strings: ["a Coder", "a Lipartist", "a Designer", "a Freelancer", "a Gallivanter"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
