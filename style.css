@@ -417,7 +417,7 @@ section .title::after{
 
 /* teams section styling */
 .teams {
-    background:black;
+    background:;
 }
 .teams .title::after{
     content: "Do follow me";
